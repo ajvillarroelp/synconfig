@@ -1,0 +1,7 @@
+{
+    "base_folder": "/app",
+    "state_folder": "/app/running",
+    "script_folder": "/app/script.d",
+    "log_folder": "/app/logs",
+    "cache": "/app/cache"
+}
