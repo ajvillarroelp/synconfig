@@ -3,5 +3,6 @@
     "state_folder": "/app/running",
     "script_folder": "/app/script.d",
     "log_folder": "/app/logs",
+    "script_repo_url": "https://raw.githubusercontent.com/ajvillarroelp/synmonitors/main/script.d/",
     "cache": "/app/cache"
 }
